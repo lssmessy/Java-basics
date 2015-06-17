@@ -4,7 +4,7 @@ public class First_demo<T extends Number> {
 	T[] num;//Declaring the object
 	public First_demo(T[] o) {
 		num=o;
-		// TODO Auto-generated constructor stub
+		
 	}
 	T[] getType(){
 		
